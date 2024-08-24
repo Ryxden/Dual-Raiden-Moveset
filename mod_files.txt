@@ -1,1 +1,4 @@
+add disk/animations.ini
+add disk/Keys.ini
+add disk/Moveset.asi
 add mod.ini
