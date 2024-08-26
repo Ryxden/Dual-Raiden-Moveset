@@ -1,4 +1,4 @@
-## Upgraded Raiden Moveset V1.1
+## Upgraded Raiden Moveset V1.3
 - Fixed teleportation blade mode cancel bug
 ## Upgraded Raiden Moveset V1.1
 - Bugfixes
