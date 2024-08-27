@@ -1,2 +1,4 @@
 add Moveset.asi
+delete Keys.ini
+add Keysanims.ini
 add mod.ini
