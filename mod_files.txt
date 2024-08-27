@@ -1,4 +1,5 @@
 add Moveset.asi
 delete Keys.ini
 add Keysanims.ini
+add animations.ini
 add mod.ini
