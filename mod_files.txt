@@ -1,5 +1,7 @@
 add animations.ini
 add Moveset.asi
-delete Keys.ini
 add Keysanims.ini
+add data000\pl\pl000f.dat
+add data000\pl\pl0010.dat
+add data000\pl\ple010_us.dat
 add mod.ini
